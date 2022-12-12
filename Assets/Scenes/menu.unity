@@ -821,6 +821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerName: 
+  usernameInput: {fileID: 1161821967}
   _score: 0
 --- !u!4 &1105695551
 Transform:
